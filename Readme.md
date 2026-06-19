@@ -1,2 +1,2 @@
-# chai aur backend series
-This is a video series on backend with javascript 
+# backend project 
+This is a project  on backend with javascript 
